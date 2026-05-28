@@ -26,7 +26,3 @@ Whack-a-Mole is a SpriteKit tap game with a title screen, randomized mole placem
 
 1. Open `WhackAMole.xcodeproj` in Xcode.
 2. Run the app in an iOS Simulator.
-
-## Notes
-
-This repository is included as an additional iOS game/code sample, but it is not featured on the main portfolio page.
